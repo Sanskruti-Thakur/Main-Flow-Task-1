@@ -146,7 +146,7 @@ WHERE StudentID = 5;
 
 **Tools Used**  
 
-1. **SQL Environment:** MySQL Workbench or any SQL tool for query execution.  
+1. **SQL Environment:** MySQL Workbench for query execution.  
 
 ---
 
