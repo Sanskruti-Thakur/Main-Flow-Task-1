@@ -14,7 +14,9 @@ Duration: January 2025 to March 2025
 
 Project: Student Management System for SQL Developers  
 
-This project involves the design and implementation of a **Student Management System** using SQL. The aim is to develop hands-on experience with database creation, data manipulation, and querying while analyzing student performance data. The project uses SQL queries to store, retrieve, and process data effectively.  ---
+This project involves the design and implementation of a **Student Management System** using SQL. The aim is to develop hands-on experience with database creation, data manipulation, and querying while analyzing student performance data. The project uses SQL queries to store, retrieve, and process data effectively. 
+
+---
 
 **Key Objectives**  
 
